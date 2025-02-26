@@ -47,7 +47,7 @@ class Automobili{
             return rez;
         }
         string llogaritKodin() {
-            // Përdorimi i operatorit += siguron që karakteret të ngjithen si varg (string) 
+            // Përdorimi i operatorit += siguron që karakteret të ngjiten si varg (string) 
             // dhe jo të mbidhen si vlera te kodit ASCII. 
             // Në këtë mënyrë, funksioni kthen saktësisht katër karaktere.
             string rez;
